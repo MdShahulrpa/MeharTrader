@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/mehar-traders-1.html"
+    }
+  ]
+}
